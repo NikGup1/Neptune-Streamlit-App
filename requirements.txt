@@ -1,0 +1,5 @@
+streamlit==1.16.0 
+pandas==1.5.2
+streamlit_option_menu==1.16.0 
+pickle==1.2.1
+PIL==9.4.0 
